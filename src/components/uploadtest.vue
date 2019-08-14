@@ -5,8 +5,13 @@
 	  	<input type="submit" value="提交" />
 	  </form>-->
 	  测试修改上传
+
 	  不不不不不
 	  么么么么么
+
+	    测试修改上传
+	      测试修改上传
+
 	  	<input type="file" name="file"  />
 	  	<input type="submit" value="提交" v-on:click="upload"/>
   </div>
